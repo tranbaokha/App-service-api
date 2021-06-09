@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="50657fec-4254-4c06-9a87-529918380cbf" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/source/com-services-api/src/main/java/com/services/api/Application.java" beforeDir="false" afterPath="$PROJECT_DIR$/source/com-services-api/src/main/java/com/services/api/Application.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/com-services-api/src/main/java/com/services/api/storage/model/Account.java" beforeDir="false" afterPath="$PROJECT_DIR$/source/com-services-api/src/main/java/com/services/api/storage/model/Account.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/com-services-api/src/main/java/com/services/api/storage/model/Group.java" beforeDir="false" afterPath="$PROJECT_DIR$/source/com-services-api/src/main/java/com/services/api/storage/model/Group.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/com-services-api/src/main/java/com/services/api/storage/model/Permission.java" beforeDir="false" afterPath="$PROJECT_DIR$/source/com-services-api/src/main/java/com/services/api/storage/model/Permission.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/com-services-api/src/main/java/com/services/api/storage/repository/AccountRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/source/com-services-api/src/main/java/com/services/api/storage/repository/AccountRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/com-services-api/src/main/java/com/services/api/storage/repository/GroupRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/source/com-services-api/src/main/java/com/services/api/storage/repository/GroupRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/com-services-api/src/main/java/com/services/api/storage/repository/PermissionRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/source/com-services-api/src/main/java/com/services/api/storage/repository/PermissionRepository.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="D:\IntelliJ IDEA Community Edition 2020.2.2\plugins\maven\lib\maven3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1nNx0RKLVYCWsTqq5BPlpUwVX0O" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="50657fec-4254-4c06-9a87-529918380cbf" name="Default Changelist" comment="" />
+      <created>1611244126366</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1611244126366</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="307" y="63" width="1089" height="761" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1611245390234">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="307" y="63" width="1089" height="761" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1611245390234" />
+    <state x="592" y="186" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1611245387566">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="592" y="186" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1536.824@0.0.1536.824" timestamp="1611245387566" />
+    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1611245419678">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1611245419678" />
+  </component>
+</project>

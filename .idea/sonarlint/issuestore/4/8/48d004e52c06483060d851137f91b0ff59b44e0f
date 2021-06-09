@@ -1,0 +1,19 @@
+
+B
+java:S1068",Remove this unused "username" private field.(‘ó¹²
+D
+java:S1068"(Remove this unused "kind" private field.(…Ì8ûÓª¬/
+g
+java:S11242"EReorder the modifiers to comply with the Java Language Specification.(Ê÷Âµşÿÿÿÿ8ûÓª¬/
+D
+java:S1068")Remove this unused "email" private field.(ª«Õìùÿÿÿÿ
+F
+java:S1068-")Remove this unused "phone" private field.(À†½´8ûÓª¬/
+E
+java:S1068."(Remove this unused "lang" private field.(›±Ù8ûÓª¬/
+D
+java:S1068/"'Remove this unused "otp" private field.(Ú­òµ8ûÓª¬/
+P
+java:S10680".Remove this unused "verifyTime" private field.(Û±“éüÿÿÿÿ8ûÓª¬/
+g
+java:S11241"EReorder the modifiers to comply with the Java Language Specification.(“«©œûÿÿÿÿ8ûÓª¬/
